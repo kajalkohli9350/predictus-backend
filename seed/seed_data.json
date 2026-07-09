@@ -1,0 +1,47 @@
+[
+  {
+    "symbol": "TCS",
+    "name": "Tata Consultancy Services",
+    "sector": "IT",
+    "industry": "Software Services",
+    "market_cap": 1450000.0,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "INFY",
+    "name": "Infosys Ltd",
+    "sector": "IT",
+    "industry": "Software Services",
+    "market_cap": 620000.0,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "HDFCBANK",
+    "name": "HDFC Bank",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 1120000.0,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "name": "Sun Pharmaceutical",
+    "sector": "Pharma",
+    "industry": "Pharmaceuticals",
+    "market_cap": 380000.0,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "TATASTEEL",
+    "name": "Tata Steel",
+    "sector": "Industrials",
+    "industry": "Steel",
+    "market_cap": 195000.0,
+    "exchange": "NSE",
+    "logo_url": null
+  }
+]

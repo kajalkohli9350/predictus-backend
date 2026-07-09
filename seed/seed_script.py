@@ -1,0 +1,29 @@
+import json
+import os
+import sys
+
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
+from app.database import SessionLocal
+from app.models.stock import Stock
+
+def seed_stocks():
+    db = SessionLocal()
+
+    with open(os.path.join(os.path.dirname(__file__), "seed_data.json")) as f:
+        stocks_data = json.load(f)
+
+    for stock in stocks_data:
+        existing = db.query(Stock).filter(Stock.symbol == stock["symbol"]).first()
+        if existing:
+            print(f"Skipping {stock['symbol']} — already exists")
+            continue
+        new_stock = Stock(**stock)
+        db.add(new_stock)
+
+    db.commit()
+    db.close()
+    print("Seeding complete ✅")
+
+if __name__ == "__main__":
+    seed_stocks()
