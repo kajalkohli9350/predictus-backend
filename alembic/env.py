@@ -12,7 +12,8 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from app.database import Base
 from app.config import settings
 from app.models.stock import Stock  # jaise jaise naye models banao, yahan import karte jana
-
+from app.models.fundamentals import StockFundamentals
+from app.models.health_score import FinancialHealthScore
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
 config = context.config
