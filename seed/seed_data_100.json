@@ -1,0 +1,921 @@
+[
+  
+  {
+    "symbol": "TCS",
+    "name": "Tata Consultancy Services",
+    "sector": "IT",
+    "industry": "Software Services",
+    "market_cap": 1216713.78,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "INFY",
+    "name": "Infosys Ltd",
+    "sector": "IT",
+    "industry": "Software Services",
+    "market_cap": 1410238.2,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "WIPRO",
+    "name": "Wipro Ltd",
+    "sector": "IT",
+    "industry": "IT Consulting",
+    "market_cap": 427984.35,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "HCLTECH",
+    "name": "HCL Technologies",
+    "sector": "IT",
+    "industry": "Software Services",
+    "market_cap": 1287345.53,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "TECHM",
+    "name": "Tech Mahindra",
+    "sector": "IT",
+    "industry": "IT Consulting",
+    "market_cap": 1123983.31,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "LTIM",
+    "name": "LTIMindtree Ltd",
+    "sector": "IT",
+    "industry": "Software Services",
+    "market_cap": 61465.73,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "PERSISTENT",
+    "name": "Persistent Systems",
+    "sector": "IT",
+    "industry": "Software Services",
+    "market_cap": 445892.39,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "COFORGE",
+    "name": "Coforge Ltd",
+    "sector": "IT",
+    "industry": "IT Consulting",
+    "market_cap": 1068559.39,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "MPHASIS",
+    "name": "Mphasis Ltd",
+    "sector": "IT",
+    "industry": "Software Services",
+    "market_cap": 422734.98,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "LTTS",
+    "name": "L&T Technology Services",
+    "sector": "IT",
+    "industry": "IT Consulting",
+    "market_cap": 1538870.72,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "HDFCBANK",
+    "name": "HDFC Bank",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 1442939.96,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ICICIBANK",
+    "name": "ICICI Bank",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 1327974.15,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 531566.19,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "AXISBANK",
+    "name": "Axis Bank",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 1818918.77,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "SBIN",
+    "name": "State Bank of India",
+    "sector": "Banking",
+    "industry": "Public Bank",
+    "market_cap": 198688.47,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "name": "IndusInd Bank",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 188277.53,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "PNB",
+    "name": "Punjab National Bank",
+    "sector": "Banking",
+    "industry": "Public Bank",
+    "market_cap": 1149060.83,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "BANKBARODA",
+    "name": "Bank of Baroda",
+    "sector": "Banking",
+    "industry": "Public Bank",
+    "market_cap": 1387841.74,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "FEDERALBNK",
+    "name": "Federal Bank",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 1849054.37,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "IDFCFIRSTB",
+    "name": "IDFC First Bank",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 154326.38,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "name": "Sun Pharmaceutical",
+    "sector": "Pharma",
+    "industry": "Pharmaceuticals",
+    "market_cap": 1576721.84,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "CIPLA",
+    "name": "Cipla Ltd",
+    "sector": "Pharma",
+    "industry": "Pharmaceuticals",
+    "market_cap": 1099082.32,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "DRREDDY",
+    "name": "Dr Reddy's Laboratories",
+    "sector": "Pharma",
+    "industry": "Pharmaceuticals",
+    "market_cap": 91837.21,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "LUPIN",
+    "name": "Lupin Ltd",
+    "sector": "Pharma",
+    "industry": "Pharmaceuticals",
+    "market_cap": 1469964.51,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "AUROPHARMA",
+    "name": "Aurobindo Pharma",
+    "sector": "Pharma",
+    "industry": "Pharmaceuticals",
+    "market_cap": 1625827.08,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ZYDUSLIFE",
+    "name": "Zydus Lifesciences",
+    "sector": "Pharma",
+    "industry": "Pharmaceuticals",
+    "market_cap": 725339.2,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "name": "Torrent Pharmaceuticals",
+    "sector": "Pharma",
+    "industry": "Pharmaceuticals",
+    "market_cap": 1209622.02,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "BIOCON",
+    "name": "Biocon Ltd",
+    "sector": "Pharma",
+    "industry": "Healthcare",
+    "market_cap": 313229.51,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "name": "Apollo Hospitals",
+    "sector": "Pharma",
+    "industry": "Healthcare",
+    "market_cap": 402015.82,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "FORTIS",
+    "name": "Fortis Healthcare",
+    "sector": "Pharma",
+    "industry": "Healthcare",
+    "market_cap": 1334949.49,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "name": "Hindustan Unilever",
+    "sector": "FMCG",
+    "industry": "Consumer Goods",
+    "market_cap": 1159303.26,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ITC",
+    "name": "ITC Ltd",
+    "sector": "FMCG",
+    "industry": "Food Products",
+    "market_cap": 1017195.07,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "NESTLEIND",
+    "name": "Nestle India",
+    "sector": "FMCG",
+    "industry": "Food Products",
+    "market_cap": 314647.73,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "BRITANNIA",
+    "name": "Britannia Industries",
+    "sector": "FMCG",
+    "industry": "Food Products",
+    "market_cap": 516551.13,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "DABUR",
+    "name": "Dabur India",
+    "sector": "FMCG",
+    "industry": "Consumer Goods",
+    "market_cap": 1302344.01,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "MARICO",
+    "name": "Marico Ltd",
+    "sector": "FMCG",
+    "industry": "Consumer Goods",
+    "market_cap": 439046.1,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "GODREJCP",
+    "name": "Godrej Consumer Products",
+    "sector": "FMCG",
+    "industry": "Consumer Goods",
+    "market_cap": 1530561.79,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "COLPAL",
+    "name": "Colgate Palmolive India",
+    "sector": "FMCG",
+    "industry": "Consumer Goods",
+    "market_cap": 512368.96,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "TATACONSUM",
+    "name": "Tata Consumer Products",
+    "sector": "FMCG",
+    "industry": "Food Products",
+    "market_cap": 1735392.96,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "VBL",
+    "name": "Varun Beverages",
+    "sector": "FMCG",
+    "industry": "Food Products",
+    "market_cap": 407927.3,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "TATASTEEL",
+    "name": "Tata Steel",
+    "sector": "Industrials",
+    "industry": "Steel",
+    "market_cap": 754722.45,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "name": "JSW Steel",
+    "sector": "Industrials",
+    "industry": "Steel",
+    "market_cap": 275741.66,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "HINDALCO",
+    "name": "Hindalco Industries",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 472359.13,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "VEDL",
+    "name": "Vedanta Ltd",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 1420591.17,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "LT",
+    "name": "Larsen & Toubro",
+    "sector": "Industrials",
+    "industry": "Engineering",
+    "market_cap": 1706374.36,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "SIEMENS",
+    "name": "Siemens Ltd",
+    "sector": "Industrials",
+    "industry": "Engineering",
+    "market_cap": 690983.26,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ABB",
+    "name": "ABB India",
+    "sector": "Industrials",
+    "industry": "Engineering",
+    "market_cap": 970552.33,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "CUMMINSIND",
+    "name": "Cummins India",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 1437207.19,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "BHEL",
+    "name": "Bharat Heavy Electricals",
+    "sector": "Industrials",
+    "industry": "Engineering",
+    "market_cap": 294634.3,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "SAIL",
+    "name": "Steel Authority of India",
+    "sector": "Industrials",
+    "industry": "Steel",
+    "market_cap": 1505990.4,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "RELIANCE",
+    "name": "Reliance Industries",
+    "sector": "Energy",
+    "industry": "Oil & Gas",
+    "market_cap": 1135195.11,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ONGC",
+    "name": "Oil and Natural Gas Corp",
+    "sector": "Energy",
+    "industry": "Oil & Gas",
+    "market_cap": 728168.55,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "NTPC",
+    "name": "NTPC Ltd",
+    "sector": "Energy",
+    "industry": "Power Generation",
+    "market_cap": 1007671.68,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "POWERGRID",
+    "name": "Power Grid Corporation",
+    "sector": "Energy",
+    "industry": "Power Generation",
+    "market_cap": 1294137.06,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "GAIL",
+    "name": "GAIL India",
+    "sector": "Energy",
+    "industry": "Oil & Gas",
+    "market_cap": 1296841.15,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "BPCL",
+    "name": "Bharat Petroleum",
+    "sector": "Energy",
+    "industry": "Oil & Gas",
+    "market_cap": 1461494.6,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "IOC",
+    "name": "Indian Oil Corporation",
+    "sector": "Energy",
+    "industry": "Oil & Gas",
+    "market_cap": 216391.37,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "COALINDIA",
+    "name": "Coal India Ltd",
+    "sector": "Energy",
+    "industry": "Power Generation",
+    "market_cap": 304708.94,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "name": "Adani Green Energy",
+    "sector": "Energy",
+    "industry": "Power Generation",
+    "market_cap": 1812481.18,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "TATAPOWER",
+    "name": "Tata Power Company",
+    "sector": "Energy",
+    "industry": "Power Generation",
+    "market_cap": 1846727.95,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "name": "Bajaj Finance",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 967056.77,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "name": "Bajaj Finserv",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 1654632.69,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "name": "HDFC Life Insurance",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 1599963.41,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "SBILIFE",
+    "name": "SBI Life Insurance",
+    "sector": "Banking",
+    "industry": "Public Bank",
+    "market_cap": 294630.41,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "name": "ICICI Prudential Life",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 1027123.26,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ICICIGI",
+    "name": "ICICI Lombard General Insurance",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 1139999.99,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "MUTHOOTFIN",
+    "name": "Muthoot Finance",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 41908.43,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "name": "Cholamandalam Investment",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 1670177.96,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "name": "Shriram Finance",
+    "sector": "Banking",
+    "industry": "Private Bank",
+    "market_cap": 458762.13,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "LICHSGFIN",
+    "name": "LIC Housing Finance",
+    "sector": "Banking",
+    "industry": "Public Bank",
+    "market_cap": 1668828.19,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "MARUTI",
+    "name": "Maruti Suzuki India",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 167313.29,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "TATAMOTORS",
+    "name": "Tata Motors",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 1551364.07,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "M&M",
+    "name": "Mahindra & Mahindra",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 248301.83,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "name": "Bajaj Auto",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 1799278.25,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "EICHERMOT",
+    "name": "Eicher Motors",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 507282.31,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "name": "Hero MotoCorp",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 1832467.71,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "TVSMOTOR",
+    "name": "TVS Motor Company",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 1356038.3,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ASHOKLEY",
+    "name": "Ashok Leyland",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 1890808.03,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "name": "Bharti Airtel",
+    "sector": "IT",
+    "industry": "IT Consulting",
+    "market_cap": 835199.66,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "IDEA",
+    "name": "Vodafone Idea",
+    "sector": "IT",
+    "industry": "IT Consulting",
+    "market_cap": 234302.95,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "name": "Asian Paints",
+    "sector": "FMCG",
+    "industry": "Consumer Goods",
+    "market_cap": 126329.07,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "BERGEPAINT",
+    "name": "Berger Paints India",
+    "sector": "FMCG",
+    "industry": "Consumer Goods",
+    "market_cap": 1119845.02,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "PIDILITIND",
+    "name": "Pidilite Industries",
+    "sector": "FMCG",
+    "industry": "Consumer Goods",
+    "market_cap": 1120094.02,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "GRASIM",
+    "name": "Grasim Industries",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 139531.9,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "name": "UltraTech Cement",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 438844.68,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "name": "Ambuja Cements",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 1634009.08,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "SHREECEM",
+    "name": "Shree Cement",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 979325.85,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ACC",
+    "name": "ACC Ltd",
+    "sector": "Industrials",
+    "industry": "Manufacturing",
+    "market_cap": 1272712.89,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "DLF",
+    "name": "DLF Ltd",
+    "sector": "Industrials",
+    "industry": "Engineering",
+    "market_cap": 1026848.3,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "GODREJPROP",
+    "name": "Godrej Properties",
+    "sector": "Industrials",
+    "industry": "Engineering",
+    "market_cap": 465479.77,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "OBEROIRLTY",
+    "name": "Oberoi Realty",
+    "sector": "Industrials",
+    "industry": "Engineering",
+    "market_cap": 1535206.81,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "PHOENIXLTD",
+    "name": "Phoenix Mills",
+    "sector": "Industrials",
+    "industry": "Engineering",
+    "market_cap": 183747.38,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "name": "Adani Ports & SEZ",
+    "sector": "Energy",
+    "industry": "Power Generation",
+    "market_cap": 676393.89,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ADANIENT",
+    "name": "Adani Enterprises",
+    "sector": "Energy",
+    "industry": "Oil & Gas",
+    "market_cap": 890011.75,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "name": "Adani Power",
+    "sector": "Energy",
+    "industry": "Power Generation",
+    "market_cap": 1281025.82,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "JSWENERGY",
+    "name": "JSW Energy",
+    "sector": "Energy",
+    "industry": "Power Generation",
+    "market_cap": 119861.02,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "TORNTPOWER",
+    "name": "Torrent Power",
+    "sector": "Energy",
+    "industry": "Power Generation",
+    "market_cap": 1522122.81,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "NHPC",
+    "name": "NHPC Ltd",
+    "sector": "Energy",
+    "industry": "Power Generation",
+    "market_cap": 476203.75,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "SJVN",
+    "name": "SJVN Ltd",
+    "sector": "Energy",
+    "industry": "Power Generation",
+    "market_cap": 1021261.5,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "PFC",
+    "name": "Power Finance Corporation",
+    "sector": "Banking",
+    "industry": "Public Bank",
+    "market_cap": 804465.71,
+    "exchange": "BSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "RECLTD",
+    "name": "REC Ltd",
+    "sector": "Banking",
+    "industry": "Public Bank",
+    "market_cap": 881680.19,
+    "exchange": "NSE",
+    "logo_url": null
+  },
+  {
+    "symbol": "IRFC",
+    "name": "Indian Railway Finance Corp",
+    "sector": "Banking",
+    "industry": "Public Bank",
+    "market_cap": 844732.76,
+    "exchange": "NSE",
+    "logo_url": null
+  }
+]

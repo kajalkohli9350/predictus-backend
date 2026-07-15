@@ -14,6 +14,9 @@ from app.config import settings
 from app.models.stock import Stock  # jaise jaise naye models banao, yahan import karte jana
 from app.models.fundamentals import StockFundamentals
 from app.models.health_score import FinancialHealthScore
+
+from app.models.user import User
+
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
 config = context.config
