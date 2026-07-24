@@ -61,3 +61,14 @@ def compute_and_save_health_score(db: Session, stock_id: int):
     db.refresh(health_score)
 
     return health_score
+
+def get_or_compute_health_score(db: Session, stock_id: int):
+    existing = (
+        db.query(FinancialHealthScore)
+        .filter(FinancialHealthScore.stock_id == stock_id)
+        .order_by(FinancialHealthScore.id.desc())
+        .first()
+    )
+    if existing:
+        return existing
+    return compute_and_save_health_score(db, stock_id)    

@@ -4,6 +4,9 @@ from app.routers import stocks
 from app.routers import fundamentals
 from app.routers import health_score
 from app.routers import auth
+from app.routers import screener
+from app.routers import ai_summary
+
 
 app = FastAPI(title="predictUs API")
 
@@ -19,9 +22,13 @@ app.include_router(stocks.router)
 app.include_router(fundamentals.router)
 app.include_router(health_score.router)
 app.include_router(auth.router)
+app.include_router(screener.router)
+app.include_router(ai_summary.router)
+
 @app.get("/")
 def read_root():
     return {"message": " congraturations! predictUs API is running 🚀"}
 
 
 #uvicorn app.main:app --reload --port 8000 
+#sudo service redis-server start

@@ -2,7 +2,7 @@ from fastapi import APIRouter, Depends, Query
 from sqlalchemy.orm import Session
 from app.database import get_db, redis_client
 from app.schemas.stock import StockOut
-from app.services.stock_service import get_all_stocks, get_stock_by_id
+from app.services.stock_service import get_all_stocks, get_stock_by_id,get_stock_by_symbol
 from typing import List
 import json
 
@@ -53,3 +53,7 @@ def get_stocks(
 @router.get("/{stock_id}", response_model=StockOut)
 def get_stock(stock_id: int, db: Session = Depends(get_db)):
     return get_stock_by_id(db, stock_id)
+
+@router.get("/symbol/{symbol}", response_model=StockOut)
+def get_stock_by_symbol_route(symbol: str, db: Session = Depends(get_db)):
+    return get_stock_by_symbol(db, symbol)

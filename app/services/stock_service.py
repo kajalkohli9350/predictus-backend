@@ -14,3 +14,6 @@ def get_stock_by_id(db: Session, stock_id: int):
             status_code = status.HTTP_404_NOT_FOUND,detail =f"stock with ID {stock_id} not found",
         )
     return stock
+
+def get_stock_by_symbol(db: Session, symbol: str):
+    return db.query(Stock).filter(Stock.symbol == symbol).first()    
